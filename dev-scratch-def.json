@@ -1,0 +1,18 @@
+{
+  "orgName": "Import-Export Example",
+  "country": "US",
+  "adminEmail": "pdedevops@ncino.com",
+  "edition": "Developer",
+  "description": "Dev Scratch Org for force-nFORCE",
+  "hasSampleData": false,
+  "language": "English",
+  "orgPreferences": {
+    "enabled": [
+      "ChatterEnabled",
+      "S1DesktopEnabled",
+      "Translation"
+    ],
+    "disabled": []
+  },
+  "features": []
+}
