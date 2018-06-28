@@ -1,1 +1,1 @@
-Select Id, Name, (Select Id, Name from Contacts) from Account
+Select Id, Name, (Select Id, Name, Title from Contacts) from Account
